@@ -1,0 +1,7 @@
+# The required librairies
+scikit-learn
+pandas
+numpy
+joblib
+matplotlib
+seaborn
